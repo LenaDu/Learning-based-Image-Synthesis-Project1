@@ -56,5 +56,9 @@ balanced_image = auto_white_balance(img)
 
 
 
+## Appendix
+
+Homework page: https://learning-image-synthesis.github.io/sp22/assignments/hw1
+
 
 
